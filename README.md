@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syncdrago&label=Profile%20views&color=0e75b6&style=flat" alt="syncdrago" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cursed__exe" target="blank"><img src="https://img.shields.io/twitter/follow/cursed__exe?logo=twitter&style=for-the-badge" alt="cursed__exe" /></a> </p>
 
 - 💻 [Portfolio](https://www.syncdrago.de)
 
