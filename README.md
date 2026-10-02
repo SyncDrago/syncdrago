@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm sync.drago</h1>
-<h3 align="center">A passionate Full Stack Developer from Germany</h3>
+<h3 align="center">A passionate IT nerd from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syncdrago&label=Profile%20views&color=0e75b6&style=flat" alt="syncdrago" /> </p>
 
 
 - 💻 [Portfolio](https://www.syncdrago.de)
 
-- 🎧 Check out my [Spotify Profile](https://open.spotify.com/user/zczpye988z2irhofqb16n2bid?si=5e2d5c4bf5ea43d8)
+- 🎧 Check out my [last.fm](https://open.spotify.com/user/zczpye988z2irhofqb16n2bid?si=5e2d5c4bf5ea43d8)
 
-- 📫 How to reach me **info@syncdrago.de**
+- 📫 How to reach me **sync.drago** on discord.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
